@@ -1,1 +1,1 @@
-This is my 1st GUI GIT Version Controller. created a new branch
+This is my 1st GUI GIT Version Controller. created a new branch. release2 branch created
